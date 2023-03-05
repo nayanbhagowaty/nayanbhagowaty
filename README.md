@@ -22,7 +22,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://programmerhumor.io/python-memes/python-the-best/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nayan112&icon=7&color=1)](https://visitcount.itsvg.in)
