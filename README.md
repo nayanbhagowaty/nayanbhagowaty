@@ -1,4 +1,4 @@
-# Hi 👋, I'm Nayan 💫
+# Hi 👋, I'm Nayan 
 🔭 I’m currently working on high performance & scalable application architecture. <br>👯 I’m looking to collaborate on Microsoft technologies<br>🤝 I’m looking for help with Net 8.0 and Kubernetes<br>🌱 I’m currently learning RUST & GO for performance<br>💬 Ask me about Microsoft technologies<br>⚡ Fun fact .NET is more secure than Java
 
                                                          ((###/#%#(#(((///(((###(((///                                                             
@@ -54,6 +54,9 @@
      ##((((/////****///*/*****/**********,*.            ..    ..    .***#&&&&&%&&&&&&&&&&&&&@@&**       ... ..,........,,,,.,.,.,.......,***///*/*/
  
 
+---
+[![](https://visitcount.itsvg.in/api?id=nayan112&icon=7&color=1)](https://visitcount.itsvg.in)
+---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nayanbhagowaty) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nayanbhagowaty) 
 
@@ -77,7 +80,6 @@
 <img src="https://programmerhumor.io/python-memes/python-the-best/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nayan112&icon=7&color=1)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nayanb) 
