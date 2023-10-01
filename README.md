@@ -1,5 +1,5 @@
 # Hi 👋, I'm Nayan 
-🔭 I’m currently working on high performance & scalable application architecture. <br>👯 I’m looking to collaborate on Microsoft technologies<br>🤝 I’m looking for help with Net 8.0 and Kubernetes<br>🌱 I’m currently learning RUST & GO for performance<br>💬 Ask me about Microsoft technologies<br>⚡ Fun fact .NET is more secure than Java
+🔭 I’m currently working on high performance & scalable application architecture. <br>👯 I’m looking to collaborate on Microsoft technologies<br>🤝 I’m looking for help with AOT with Net 8.0 and Kubernetes<br>🌱 I’m currently learning Blazor, RUST & GO for performance<br>💬 Ask me about Microsoft technologies<br>⚡ Fun fact .NET is more secure than Java
 
                                                          ((###/#%#(#(((///(((###(((///                                                             
                                                   (((//(***,,***/(****//*(//(*/*/(/(/((/(/                                                         
