@@ -1,7 +1,7 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100'>    
 
 # Hi 👋, I'm Nayan 
-🔭 I’m currently working on high performance & scalable application architecture. <br>👯 I’m looking to collaborate on Microsoft technologies<br>🤝 I’m looking for help with AOT with Net 8.0 and Kubernetes<br>🌱 I’m currently learning Blazor, RUST & GO for performance<br>💬 Ask me about Microsoft technologies<br>⚡ Fun fact .NET is more secure than Java
+🔭 I’m currently working on high performance & scalable application architecture. <br>👯 I’m looking to collaborate on flutter or AI project<br>🤝 I’m looking for help with task specific AI agent<br>🌱 I’m currently learning Flutter for iOS & RUST for performance<br>💬 Ask me about anything coding<br>⚡ Fun fact -
      
                   
 ---
